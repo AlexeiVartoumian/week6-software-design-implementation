@@ -16,10 +16,18 @@ The three systems in question are:
 
 
 The Choice of Development approaches are:
+
 a. Bespoke - custom software built to specifications
+
 b. COTS - Commercial off the shelf software. Ready to use Software tailored for specific use cases.
+
 c. Hybrid - A mix of COTS and Bespoke software
-d. Open Source(two subsets) - 1. Community: software developed by a decentralised community ; often for free, for the purpose of free use. Commercial: Similar to community with the exception of licenses/trademarks/patents for distribution of software being held by a single entity. May charge money for use of service.
+
+d. Open Source(two subsets) 
+        - 1. Community: software developed by a decentralised community ; often for free, for the purpose of free use. 
+        2. Commercial: Similar to community with the exception of licenses/trademarks/patents for distribution of software being held by a single entity. May charge    money for use of service.
+
 e. Proprietary: developed by a single entity that retains full control of the software.
+
 f. SaaS:A natural Extension of COTS.
 
